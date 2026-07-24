@@ -82,7 +82,7 @@
     },
     {
       "id": "Laura",
-      "role": "research_assistant",
+      "role": "phd_student",
       "image": "laura.jpeg",
       "projects": [
         "CONNECTS"
@@ -143,7 +143,7 @@
     },
     {
       "id": "Lejla",
-      "role": "visiting_researcher",
+      "role": "phd_student",
       "projects": [
         "CONNECTS"
       ]
@@ -155,17 +155,62 @@
       "projects": [
         "CONNECTS"
       ]
+    },
+    {
+      "id": "Almudena",
+      "role": "postdoc",
+      "projects": [
+        "CONNECTS"
+      ]
+    },
+    {
+      "id": "Umut",
+      "role": "visiting_researcher",
+      "projects": [
+        "CONNECTS"
+      ]
+    },
+    {
+      "id": "Klara",
+      "role": "postdoc",
+      "projects": [
+        "CONNECTS"
+      ]
+    },
+    {
+      "id": "Claudia",
+      "role": "phd_student",
+      "projects": [
+        "XXXXX"
+      ]
+    },
+    {
+      "id": "Robin",
+      "role": "postdoc",
+      "projects": [
+        "AWAKE"
+      ]
+    },
+    {
+      "id": "Nika",
+      "role": "alumni",
+      "projects": [
+        ""
+      ]
+    },
+    {
+      "id": "Paula",
+      "role": "research_assistant",
+      "image": "paula.jpg",
+      "projects": [
+        "CONNECTS"
+      ]
     }
   ],
   "links": [
     {
       "source": "Javier",
       "target": "Carlos",
-      "type": "colab"
-    },
-    {
-      "source": "Johannah",
-      "target": "Javier",
       "type": "colab"
     },
     {
@@ -266,7 +311,7 @@
     {
       "source": "Miriam",
       "target": "Laura",
-      "type": "colab"
+      "type": "co"
     },
     {
       "source": "Irene",
@@ -276,12 +321,57 @@
     {
       "source": "Javier",
       "target": "Lejla",
-      "type": "colab"
+      "type": "supervisor"
     },
     {
       "source": "Javier",
       "target": "Luis",
       "type": "colab"
+    },
+    {
+      "source": "Juan",
+      "target": "Lejla",
+      "type": "co"
+    },
+    {
+      "source": "Carlos",
+      "target": "Almudena",
+      "type": "colab"
+    },
+    {
+      "source": "Javier",
+      "target": "Almudena",
+      "type": "colab"
+    },
+    {
+      "source": "Javier",
+      "target": "Umut",
+      "type": "supervisor"
+    },
+    {
+      "source": "Rodika",
+      "target": "Claudia",
+      "type": "supervisor"
+    },
+    {
+      "source": "Javier",
+      "target": "Klara",
+      "type": "colab"
+    },
+    {
+      "source": "Juan",
+      "target": "Robin",
+      "type": "colab"
+    },
+    {
+      "source": "Nika",
+      "target": "Former BIKErs",
+      "type": "colab"
+    },
+    {
+      "source": "Javier",
+      "target": "Paula",
+      "type": "supervisor"
     }
   ]
 }
