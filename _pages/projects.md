@@ -19,7 +19,7 @@ If you want to know more about the project, [visit our site](https://sites.googl
 
 Artificial neural networks excel at object classification. Given a 2D image of an object (e.g., the picture of a samoyedo), state-of-the-art convolutional neural networks are able to categorize the image as containing one concrete verbal label (e.g., "dog"). However, "object naming" is just one the many high-level tasks that humans can perform with an image. In this project we want to mimic human's semantic access. Namely, given the image of an object, access an distribution of concepts that are semantically associated with the concept represented in the image. The goal is to create a high-level semantic model that can be compared with lower-level visual models and with human or neural representational geometries.
 
-Check out more details at [our site](https://ortiztudela.github.io/ortiztudela/association-model/)
+Check out more details at [our site](https://ortiztudela.github.io/association-model/)
 
 
 ## How do memories inform predictions?
@@ -41,7 +41,7 @@ Uses reinforcement learning (RL) models to quantify belief & trust updating.
 Combines in‑lab experiments with large‑scale conjoint surveys.
 Aims at translating findings into evidence‑based interventions & guidelines.
 
-If you want to know more about the project, [visit our site](https://ortiztudela.github.io/ortiztudela/cocombu/)
+If you want to know more about the project, [visit our site](https://ortiztudela.github.io/cocombu/)
 
 
 ## CoSo: Cognition for Society
@@ -49,4 +49,4 @@ CoSo encompases several independent research projects at CIMCYC that share a com
 
 We hold regular monthly meetings to share progress, cross-pollinate ideas, identify synergies, and provide mutual support — especially for early-career researchers navigating the space between fields.
 
-[Visit our site](https://ortiztudela.github.io/ortiztudela/coso/)
+[Visit our site](https://ortiztudela.github.io/coso/)
