@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-### Site still under construction
-
 I am a Ramón y Cajal Researcher at the Mind, Brain and Behavior Research Center (CIMCYC, Universidad de Granada). 
 
 I obtained my PhD with Prof. Juan Lupiañez and Prof. Luis Jiménez in 2018. Afterwards, I worked as a postdoctoral researcher with Prof. Yee Lee Shing at the LISCO lab at Goethe University (Frankfurt). In 2023, I was awarded a Junior Researcher grant from the Junta de Andalucía to independently develop my own line of research. In 2024 I obtained a Ramon y Cajal Fellowship and my project [CONNECTS](https://sites.google.com/view/connects-site) was funded by an ERC Starting Grant staring early 2025.

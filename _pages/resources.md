@@ -11,7 +11,7 @@ Over the years I have developed several resources which are freely available for
 
 This is a collection of short tutorial-like articles I started a while ago. These are little-theory/lots-of-pragmatic tips intended to get you going quickly (either for the first time or after not using these tools for a while).
 
-[To Future Me](https://sites.google.com/view/to-future-me/blog)
+[Blog]({{ '/blog/' | relative_url }})
 
 ## fMRI Analysis Intro
 
