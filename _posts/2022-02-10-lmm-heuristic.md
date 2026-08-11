@@ -1,5 +1,6 @@
 ---
 title: "A heuristic for LMM model selection"
+excerpt: "Hopefully, this will help as a guide for your thinking through the process."
 date: 2022-02-10
 permalink: /blog/lmm-heuristic/
 tags:

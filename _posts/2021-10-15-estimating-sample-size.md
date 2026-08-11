@@ -1,5 +1,6 @@
 ---
 title: "Estimating sample size"
+excerpt: "We have all been there: you want to fill in your pre-data-collection registration for your new study and you need to input a number for the targeted sample size."
 date: 2021-10-15
 permalink: /blog/estimating-sample-size/
 tags:
