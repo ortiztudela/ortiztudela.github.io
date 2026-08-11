@@ -9,7 +9,11 @@ tags:
   - tutorial
 ---
 
-Heuristic for using LMMs as a two-step process: 1) determine whether the slopes of your effects differ, 2) test your main effects.
+Heuristic for using LMMs as a two-step process. This helps me conceptualise the process. 
+
+# How to?
+
+The two steps are: 1) determine whether the slopes of your effects differ, 2) test your main effects.
 
 **In order to do 1):**
 
