@@ -10,6 +10,8 @@ tags:
   - tutorial
 ---
 
+This is a very shot tutorial on how to run fMRIPrep on a shared cluster where you do not have access to Docker. This usually happens because docker requieres sudo access to run so in shared machines administrators usually would rather install Singularity which also uses containers but without sudo.
+
 ## Why?
 
 If you are here, you have probably tried to run fmriprep through Docker and have realized that you do not have admin rights in the system that you want to use. **If you have not tried that, I suggest you do it** (see [here how to]({{ '/blog/how-to-fmriprep/' | relative_url }})) and only use Singularity as a plan B.
