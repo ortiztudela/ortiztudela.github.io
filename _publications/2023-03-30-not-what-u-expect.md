@@ -5,8 +5,7 @@ permalink: /publication/2023-03-30-not-what-u-expect
 excerpt: 'This study investigates how prediction errors impact item memory, revealing an inverted U-shape function with better memory performance for intermediate levels of prediction error.'
 date: 2023-03-30
 venue: 'Journal of Experimental Psychology: General'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.1037/xge0001367'
 citation: 'Ortiz-Tudela, J., Nolden, S., Pupillo, F., Ehrlich, I., Schommartz, I., Turan, G., & Shing, Y. L. (2023). &quot;Not What U Expect: Effects of Prediction Errors on Item Memory.&quot; <i>Journal of Experimental Psychology: General</i>. 152(8), 2160–2176.'
 ---
 

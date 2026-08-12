@@ -5,8 +5,7 @@ permalink: /publication/2023-08-22-parameters-of-prediction
 excerpt: 'This study proposes a five-dimensional scheme to characterize different parameters of prediction in visual perception, facilitating integration across studies and stimulating new research questions.'
 date: 2023-08-22
 venue: 'Neuroscience and Biobehavioral Reviews'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.neubiorev.2023.105369'
 citation: 'Ortiz-Tudela, J., Nicholls, V. I., & Clarke, A. (2023). &quot;Parameters of prediction: Multidimensional characterization of top-down influence in visual perception.&quot; <i>Neuroscience and Biobehavioral Reviews</i>. 153. 105369.'
 ---
 

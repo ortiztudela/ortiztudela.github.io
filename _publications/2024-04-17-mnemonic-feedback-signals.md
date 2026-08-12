@@ -5,8 +5,7 @@ permalink: /publication/2024-04-17-mnemonic-feedback-signals
 excerpt: 'This fMRI study investigates how feedback signal composition changes across the lifespan, focusing on age-related dedifferentiation in early visual cortex.'
 date: 2024-04-17
 venue: 'Journal of Neuroscience'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://doi.org/10.1523/JNEUROSCI.0607-23.2023'
 citation: 'Ehrlich, I., Ortiz-Tudela, J., Tan, Y. Y., Muckli, L., & Shing, Y. L. (2024). &quot;Mnemonic But Not Contextual Feedback Signals Defy Dedifferentiation in the Aging Early Visual Cortex.&quot; <i>Journal of Neuroscience</i>. 44(16).'
 ---
 

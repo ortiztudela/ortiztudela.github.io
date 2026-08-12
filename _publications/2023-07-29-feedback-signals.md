@@ -5,8 +5,7 @@ permalink: /publication/2023-07-29-feedback-signals
 excerpt: 'This study explores how feedback signals from episodic and schematic memory retrieval travel through the visual cortex, with implications for understanding memory deficits in aphantasia.'
 date: 2023-07-29
 venue: 'Neuroscience and Biobehavioral Reviews'
-slidesurl: 'http://academicpages.github.io/files/slides4.pdf'
-paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+paperurl: 'https://doi.org/10.1016/j.neubiorev.2023.105335'
 citation: 'Bergmann, J., & Ortiz-Tudela, J. (2023). &quot;Feedback signals in visual cortex during episodic and schematic memory retrieval and their potential implications for aphantasia.&quot; <i>Neuroscience and Biobehavioral Reviews</i>. 152, 105335.'
 ---
 
