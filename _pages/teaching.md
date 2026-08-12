@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-This is where I will be documenting all my teaching activities from 2024 onwards. Right now I don't see the point of re-formating and uploading past courses so I won't be doing it unless I get really bored during a summer break (_highly unlikely_). 
+This is where I will be documenting all my teaching activities from 2024 onwards. 
 
 **Open Educational Resources (OER)**
 
@@ -23,7 +23,3 @@ The resources listed here are open educational resources that are free to use, s
 ## Master Courses
 
 [Neuroanatomía y Neuroimagen Funcional 2526 – Neuroimagen Funcional](/ortiztudela/teaching/nanif-2526_book/index.html)
-
-## PhD Courses
-
-_Under construction_

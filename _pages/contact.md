@@ -15,12 +15,14 @@ author_profile: true
 
 [ortiztudela@ugr.es](mailto:ortiztudela@ugr.es)
 
-**GitLab:** @ortiztudela ([https://gitlab.com/ortiztud](https://gitlab.com/ortiztud))
+**GitLab:** @ortiztudela ([https://gitlab.com/ortiztudela](https://gitlab.com/ortiztudela))
 
-**GitHub:** @ortiztudela ([https://github.com/ortiztud](https://github.com/ortiztud))
+**GitHub:** @ortiztudela ([https://github.com/ortiztudela](https://github.com/ortiztudela))
 
 **OSF:** [Javier Ortiz-Tudela](http://osf.io/5rpmj)
 
 **ResearchGate:** [Javier Ortiz-Tudela](https://www.researchgate.net/profile/Javier_Ortiz-Tudela)
+
+**Universidad de Granada** [Javier Ortiz-Tudela](https://www.ugr.es/personal/francisco-javier-ortiz-tudela)
 
 
