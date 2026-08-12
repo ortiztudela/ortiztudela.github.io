@@ -43,7 +43,6 @@ lic_path=$project_path/
 
 #----START PREPROCESSING ------#
 sudo docker run -ti --rm \
-  -e $which_sub \
   -v $bids_path/:/data:ro \
   -v $out_path/:/output \
   -v $lic_path/:/lic \

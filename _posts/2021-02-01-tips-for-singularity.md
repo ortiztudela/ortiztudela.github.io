@@ -9,7 +9,7 @@ tags:
   - tutorial
 ---
 
-Tips gathered after too-many trial-and-error attempts.
+Tips gathered after too-many trial-and-error attempts. Note: Singularity was renamed to [Apptainer](https://apptainer.org/) in 2021, so if you're setting this up today look for the equivalent config under that name too.
 
 ## Failed to set effective UID to 0
 

@@ -10,7 +10,7 @@ tags:
   - tutorial
 ---
 
-This is a very shot tutorial on how to run fMRIPrep on a shared cluster where you do not have access to Docker. This usually happens because docker requieres sudo access to run so in shared machines administrators usually would rather install Singularity which also uses containers but without sudo.
+This is a very short tutorial on how to run fMRIPrep on a shared cluster where you do not have access to Docker. This usually happens because Docker requires sudo access to run, so on shared machines administrators usually would rather install Singularity, which also uses containers but without sudo.
 
 ## Why?
 
@@ -108,7 +108,7 @@ echo "Loading singularity..."
 spack load singularity@3.5.2
 
 # Which subject do you want to run?
-subject=01
+subject=01  # swap for $SLURM_ARRAY_TASK_ID if you want each array task to run a different subject
 
 # Re-direct some environmental variables to writable locations
 export SINGULARITY_TMPDIR=/path/to/writable/location/fmriprep_temp/$subject
