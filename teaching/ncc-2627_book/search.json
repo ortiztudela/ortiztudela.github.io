@@ -1,0 +1,891 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cognitive Neuroscience 2526 - Small Group Sessions",
+    "section": "",
+    "text": "Welcome to the Small Group Sessions of Cognitive Neuroscience\nThis book contains the materials for the small group session of the Cognitive Neuroscience course (Academic year 2526). The overarching aim of these sessions is to gain in-depth knowledge about certain sub-topics in Cognitive Neuroscience which, due to time limitation, cannot be covered in detail in the big group sessions. The final outcome will be a group project in which you will create a podcast-like episode on a subtopic of your chosing within Cognitive Neuroscience.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to the Small Group Sessions of Cognitive Neuroscience</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "Cognitive Neuroscience 2526 - Small Group Sessions",
+    "section": "How to Use This Book",
+    "text": "How to Use This Book\nThis book is organized week by week, following the course structure. Each chapter contains information about what is to be expected for the corresponding week’s session. Also, throughout the weeks you will find information about concrete milestones and how to deliver them.\nNavigate through the chapters using the sidebar or the next/previous buttons at the bottom of each page.\nIf you have any questions or need further clarification on the course content, assignments, or any technical issues related to podcast production, please do not hesitate to reach out to the course instructors via email or during office hours. We are here to support your learning journey and ensure you have all the resources you need to succeed in this course.\nRemember, this course is not just about learning theoretical aspects of Cognitive Neuroscience but also about learning to communicate this knowledge in a creative and practical way. We encourage you to engage actively with the course materials, participate in discussions during the on-site sessions, and bring your unique perspectives to the episodes you will create.\nGood luck, and we look forward to hearing your podcasts!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to the Small Group Sessions of Cognitive Neuroscience</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction to Cognitive Neuroscience and the Podcast Project",
+    "section": "",
+    "text": "Course Overview\nThis course is designed as a 13-week journey that will take you through all the necessary steps starting from coming out with a scientific question, finding information about it, critically thinking about this information, and to eventually create a summary of the learned information in audio format. Throughout the semester, you will work in groups of 3-4 students to create a 5-10 minute podcast episode on a specific subtopic within cognitive neuroscience.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to Cognitive Neuroscience and the Podcast Project</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.html#course-objectives",
+    "href": "introduction.html#course-objectives",
+    "title": "Introduction to Cognitive Neuroscience and the Podcast Project",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nBy the end of this course, you will:\n\nGain in-depth knowledge in a specific area within Cognitive Neuroscience\nLearn to review, critically analyze and synthesize scientific literature\nGain experience in interviewing experts scientists in the field\nDevelop proficiency in sythesizing and communicating scientific information to diverse audiences\nAcquire basic skills in recording and editing audio content generally and on podcast production more concretely\nEnhance your teamwork and project management skills",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to Cognitive Neuroscience and the Podcast Project</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.html#course-instructors",
+    "href": "introduction.html#course-instructors",
+    "title": "Introduction to Cognitive Neuroscience and the Podcast Project",
+    "section": "Course Instructors",
+    "text": "Course Instructors\n\nRodika Sokoliuk\n\nEmail: sokoliuk@ugr.es\nOffice: 303 at CIMCYC\n\nJuan Linde Domingo\n\nEmail: lindedomingo@ugr.es\nOffice: 308 at CIMCYC\n\nJavier Ortiz Tudela\n\nEmail: ortiztudela@ugr.es\nOffice: 308 at CIMCYC\n\n\nNote: While we have office hours, it’s usually better if you send us an email in advance so that we can prepare for your questions.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to Cognitive Neuroscience and the Podcast Project</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.html#getting-started",
+    "href": "introduction.html#getting-started",
+    "title": "Introduction to Cognitive Neuroscience and the Podcast Project",
+    "section": "Getting Started",
+    "text": "Getting Started\nAs we embark on this journey together, keep an open mind, be curious, and don’t be afraid to ask questions. Cognitive neuroscience is fascinating and complex, and your task is to make it accessible and engaging for the audience.\nIn the next section, we’ll dive into the course roadmap, giving you a clear picture of what to expect in the coming weeks.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to Cognitive Neuroscience and the Podcast Project</span>"
+    ]
+  },
+  {
+    "objectID": "week_0.html",
+    "href": "week_0.html",
+    "title": "Week 0: Course Kick-off",
+    "section": "",
+    "text": "Course Structure\nThe course is structured week-by-week, guiding you through the process of creating your podcast. Each week focuses on specific tasks and milestones, building towards your final product. The workload is distributed between in-person sessions and autonomous group work.\nDuring the in-person sessions we will explain each step in the process and present you with strategies and tools so that you can work efficiently. In addition, some of the in-person time will be dedicated for group work so that you can complement your autonomous work. If you regularly attend the in-person sessions and you deliver all the milestones in their due time, the amount of autonomous work should be minimal.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 0: Course Kick-off</span>"
+    ]
+  },
+  {
+    "objectID": "week_0.html#course-structure",
+    "href": "week_0.html#course-structure",
+    "title": "Week 0: Course Kick-off",
+    "section": "",
+    "text": "Let’s start at the end (product): Your own CogNeuro Podcast!\nThe main project of this course is to create a 5 to 10-minute podcast-like recording on a subtopic within Cognitive Neuroscience. Throughout the semester, you’ll work through various milestones, from topic selection to the final production of your podcast episode. If you have never worked on a similar project, rest assure, we will walk you through all the steps so that, if you follow along, you will be able to complete the assignment in time.\nWe will give you a set of broad topics for you to choose from but you will also be able (and encouraged!) to work on a different topic that you find more interesting. If you want to have a more concrete idea of what we are expecting from you, here you can find here the full set of episodes that were created in the previous editions (shared with permission form the authors): https://github.com/ortiztudela/cogneuro/tree/main/podcasts\n\n\nHow We’ll Achieve This\n\nWork in small groups arranged according to topic preferences.\nFollow a weekly program covering all necessary steps.\nEngage in lots of in-session work.\nComplete partial milestones throughout the semester.\nParticipate in joint listening sessions of the recordings, Q&A, and feedback.\n\nHere you will find a detailed plan of what we will do on each session (this file will also be available on PRADO).\n\n\n\n\n\n\nRoadmap for the Course\n\n\n\n\n\n\nWeek 0: Course Introduction and Roadmap\n\nDate: September 17th\nActivities: In this introductory session, we’ll go over the course objectives and what you can expect to achieve by the end. We will also cover our expected timeline, deliverable milestones and how we will evaluate your work.\n\n\n\nWeek 1: Topic Selection and Research\n\nDate: September 24th\nActivities:\n\nPresentation of the skeptical watchlist for Cognitive Neuroscience research.\nIntroduction to available topics along with the selected papers.\nStudents rate their topic preferences (https://forms.gle/vv24vQnko35txwyt8)\nFormation of groups based on topic preferences.\n\n\n\n\nWeek 2: In-depth Research\n\nDate: October 1nd\nActivities:\n\nRead and analyze the proposed paper for the selected topic.\nConduct topic-specific literature searches.\nDistribute additional papers among group members and start reading.\nPresent popular science podcasts as examples.\nWhat is your target audience and why does it matter?\n\n\n\n\nWeek 3: Narrowing Down Your Research\n\nDate: October 8th\nActivities:\n\nDecide on what are the *core ideas** that you want to transmit among everything that you have read.\nThink about how to best communicate those ideas.\nDo you need to read some more? Go ahead!\nMilestone: Decide on a subtopic, a target audience and provide a tentative title for your podcast episode.\n\n\n\n\nWeek 4: Episode Outline\n\nDate: October 15th\nActivities:\n\nContinue refining the content through additional reading.\nDevelop an outline for the podcast episode collaboratively.\nDecide on the tone (formal, light, fun) of the episode.\nAssign roles for the final episode (who will speak, etc.).\nBegin working individually on respective sections.\nSeek guidance and feedback as needed.\n\n\n\n\nWeek 5: Preparing Interviews (Part 1)\n\nDate: October 22rd\nActivities:\n\nIdentify and research the expert for the interview.\nDevelop and select key questions for the interview.\nDecide on potential format for the interview.\nIntegrate the interview into the episode outline.\nContact the experts and start scheduling.\nMilestone: Send the outline and questions for review.\n\n\n\n\nWeek 6: Recording Interviews (Part 1) + Script Writing (Part 1)\n\nDate: October 29th\nActivities:\n\nBegin recording interviews with the experts.\nLearn tips for writing engaging introductions and conclusions.\nStart writing the script for the episode.\nSeek guidance and feedback as needed.\n\n\n\n\nWeek 7: Recording Interviews (Part 2) + Script Writing (Part 2)\n\nDate: November 5th\nActivities:\n\nContinue recording interviews.\nReview and adjust the episode outline if necessary.\nContinue writing the script.\nMilestone: Send script draft for review.\n\n\n\n\nWeek 8: Script Writing (Part 3) + Intro to Recording\n\nDate: November 12th\nActivities:\n\nIntroduction to podcast recording techniques.\nDiscussion on the importance of recording environment and speaker articulation and delivery.\nBasic audio recording tools.\nIncorporate insights from interviews into the episode.\nContinue refining the script based on feedback.\n\n\n\n\nWeek 9: Script Writing (Part 4) + Intro to Editing\n\nDate: November 19th\nActivities:\n\nIntroduction to podcast editing techniques.\nDiscussion on the use of transitions, sound effects, and music.\nBasic audio editing tools.\nIncorporate insights from interviews into the episode.\nContinue refining the script based on feedback.\n\n\n\n\nWeek 10: Recording and Audio Editing (Part 1)\n\nDate: November 26th\nActivities:\n\nStart recording the episode using the developed script.\nSeek guidance and feedback as needed.\n\n\n\n\nWeek 11: Recording and Audio Editing (Part 2)\n\nDate: December 3th\nActivities:\n\nContinue recording.\nSupport in editing the recorded audio for clarity and coherence.\nReview and revise the entire podcast episode as a group.\nMake necessary edits to enhance the episode’s flow and quality.\n\n\n\n\nWeek 12: Podcast Presentation and Group Feedback (Part 1)\n\nDate: December 12th\nActivities:\n\nListen to the final version of the episodes as a group.\nQ&A session with other groups.\nProvide and receive constructive feedback on various aspects of the episode.\nVote on different aspects of the podcast (e.g., content, clarity)\n\n\n\n\nWeek 13: Podcast Presentation and Group Feedback (Part 2)\n\nDate: December 17th\nActivities:\n\nListen to the remaining podcasts as a group.\nQ&A session with other groups.\nProvide and receive constructive feedback on various aspects of the episode.\nVote on different aspects of the podcast (e.g., content, clarity)\nDiscuss feedback and the overall experience.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 0: Course Kick-off</span>"
+    ]
+  },
+  {
+    "objectID": "week_0.html#resources",
+    "href": "week_0.html#resources",
+    "title": "Week 0: Course Kick-off",
+    "section": "Resources",
+    "text": "Resources\n\nTechnical Resources\n\nThis book!\nPRADO platform\nAudio recording software\nAudio editing software\nA regular personal-use computer\n\n\n\nHuman Resources (for interviews)\n\nYour peers!\nResearchers from the UGR (PhD students, Postdoctoral researchers, Full Professors)",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 0: Course Kick-off</span>"
+    ]
+  },
+  {
+    "objectID": "week_0.html#evaluation",
+    "href": "week_0.html#evaluation",
+    "title": "Week 0: Course Kick-off",
+    "section": "Evaluation",
+    "text": "Evaluation\nYour total grade in this project (which will be 30% of the final grade of the semester) will be divided into two components:\n\nMilestones (3 points) Three deliverables for intermediate steps:\n\nTopic selection and title (Week 3) - 1 point\nEpisode outline (Week 5) - 1 point\nScript draft (Week 7) - 1 point\n\n\nWe will set specific deadlines for each one of them. In order to get the full mark for each of the milestones, you must submit your assignment before the deadline. We will apply a penalti of 50% for submissions delays &lt; 24h and of 100% for submission delays &gt; 24h.\n\nFinal Episode (7 points) Key aspects considered:\n\nClarity and coherence of the content\nCorrect interpretation and integration of the data and ideas\nFormat and engagement\nRecording and editing quality\n\n\n\nPodcast Evaluation Criteria\n\n\n\n\n\n\n\n\n\n\n\nCriteria\n1 (Unacceptable)\n2 (Deficient)\n3 (Acceptable)\n4 (Good)\n5 (Excellent)\n\n\n\n\nClarity and Coherence  (2 points)\nThe content is confusing and difficult to follow; lacks a clear focus.\nThe content has some moments of clarity, but overall is difficult to understand.\nThere is a logical sequence for the most part with some moments of ambiguity.\nThe content is clear and well articulated throughout most of the podcast.\nThe content is extremely clear and easy to follow throughout the entire podcast.\n\n\nData Interpretation  (2 points)\nTotal lack of or erroneous interpretation of data.\nBasic interpretation of data, but with significant errors or misunderstandings.\nCorrect interpretation of data, but lacks depth or analysis.\nGood interpretation of data with detailed analysis.\nExceptional interpretation and profound analysis of the presented data.\n\n\nDynamics  (2 points)\nThe content is too dense and/or the format is not suitable for the content.\nThe format is correct but lacks attentional cues for the audience.\nThe format is adequate and includes some attentional cues.\nThe format is adequate and the attentional cues maintain the listener’s attention.\nThe format is ideal and novel; attentional cues make the content integrate fluidly.\n\n\nProduction  (1 point)\nPoor audio quality and careless editing; constant technical distractions.\nFair audio quality and editing, but with several distractions.\nAdequate audio quality and editing, with few distractions.\nHigh-quality audio and professional editing; minimal distractions.\nExceptional audio quality and editing; professional-grade production with no distractions.\n\n\n\nAdditionally, we will be awarding prizes in categories such as “Most Interesting Episode”, “Most Fun Episode”, and “Best Recorded Episode” based on the votes of your peers. Each prize will add a 0.2 bonus to your whichever mark your podcast got according to the evaluation criteria (up to a maximum of 7 points).",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 0: Course Kick-off</span>"
+    ]
+  },
+  {
+    "objectID": "week_0.html#topics",
+    "href": "week_0.html#topics",
+    "title": "Week 0: Course Kick-off",
+    "section": "Topics",
+    "text": "Topics\nWe have selected one research paper as a starting point for each topic. You will find these papers below and also on PRADO. The main topics include:\n\nNeuroanatomy and plasticity: (Merabet and Pascual-Leone 2010)\nConsciousness: (Sohn 2019)\nBrain stimulation: (Yavari et al. 2018)\nPoverty: (Farah 2017)\nNeurosexism: (Meynell 2013)\nStereotypes and prejudices: (Amodio 2014)\nClinical Disorders: (Dillon and Pizzagalli 2018)\nArtificial Intelligence: (Saxe, Nelli, and Summerfield 2021)\nAnimal Studies: (Autore and Ryan 2020)",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 0: Course Kick-off</span>"
+    ]
+  },
+  {
+    "objectID": "week_0.html#next-steps",
+    "href": "week_0.html#next-steps",
+    "title": "Week 0: Course Kick-off",
+    "section": "Next Steps",
+    "text": "Next Steps\nIn the coming weeks, you will dive deeper into one of these topics. You will learn about the parts that you find more interesting and attempt at integrating them together with your work group. The ultimate goal is that you can efficiently communicate all that information to the rest of your classmates. As a bonus, you will also get to learn from their work on the things that they find fascinating! Be prepared to engage in collaborative work, conduct in-depth research, develop your science communication skills, and learn to provide (and to receive) constructive feedback.\n\nReferences\n\n\n\n\nAmodio, David M. 2014. “The Neuroscience of Prejudice and Stereotyping.” Nature Reviews Neuroscience 15 (10): 670–82.\n\n\nAutore, Livia, and Tomás J Ryan. 2020. “Memory: It’s Not a Lie If You Believe It.” Current Biology 30 (12): R717–20.\n\n\nDillon, Daniel G, and Diego A Pizzagalli. 2018. “Mechanisms of Memory Disruption in Depression.” Trends in Neurosciences 41 (3): 137–49.\n\n\nFarah, Martha J. 2017. “The Neuroscience of Socioeconomic Status: Correlates, Causes, and Consequences.” Neuron 96 (1): 56–71.\n\n\nMerabet, Lotfi B, and Alvaro Pascual-Leone. 2010. “Neural Reorganization Following Sensory Loss: The Opportunity of Change.” Nature Reviews Neuroscience 11 (1): 44–52.\n\n\nMeynell, Letitia. 2013. “Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference. By Cordelia Fine. New York: WW Norton & Company, 2010.-Brain Storm: The Flaws in the Science of Sex Differences. By Rebecca m. Jordan-Young Cambridge, Mass.: Harvard University Press, 2010.” Hypatia 28 (3): 684–89.\n\n\nSaxe, Andrew, Stephanie Nelli, and Christopher Summerfield. 2021. “If Deep Learning Is the Answer, What Is the Question?” Nature Reviews Neuroscience 22 (1): 55–67.\n\n\nSohn, Emily. 2019. “Decoding Consciousness.” Nature 571 (7766): S2–5.\n\n\nYavari, Fatemeh, Asif Jamil, Mohsen Mosayebi Samani, Liliane Pinto Vidor, and Michael A Nitsche. 2018. “Basic and Functional Effects of Transcranial Electrical Stimulation (tES)—an Introduction.” Neuroscience & Biobehavioral Reviews 85: 81–92.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 0: Course Kick-off</span>"
+    ]
+  },
+  {
+    "objectID": "week_1.html",
+    "href": "week_1.html",
+    "title": "Week 1: Topic Selection and Research",
+    "section": "",
+    "text": "Objectives\nBy the end of this week, students will:",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 1: Topic Selection and Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_1.html#objectives",
+    "href": "week_1.html#objectives",
+    "title": "Week 1: Topic Selection and Research",
+    "section": "",
+    "text": "Have a quick recap of the goal of the course to get new students on board\nBe introduced to potential pitfalls in Cognitive Neuroscience research\nSelect their preferred topics\nBe assigned to groups based on their preferences",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 1: Topic Selection and Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_1.html#milestones-and-delivery-dates",
+    "href": "week_1.html#milestones-and-delivery-dates",
+    "title": "Week 1: Topic Selection and Research",
+    "section": "Milestones and Delivery Dates",
+    "text": "Milestones and Delivery Dates\nWe’ll review the project milestones and their expected delivery dates. This will help you plan your work and ensure you stay on track throughout the course.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 1: Topic Selection and Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_1.html#a-skeptical-approach-to-cognitive-neuroscience-research",
+    "href": "week_1.html#a-skeptical-approach-to-cognitive-neuroscience-research",
+    "title": "Week 1: Topic Selection and Research",
+    "section": "A Skeptical Approach to Cognitive Neuroscience Research",
+    "text": "A Skeptical Approach to Cognitive Neuroscience Research\nIn this section, we’ll discuss common pitfalls and areas of caution in Cognitive Neuroscience research. This “skeptical watchlist” will help you approach your research with a critical eye and ensure the scientific integrity of your podcast content.\nYou can find the slides for this section below.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 1: Topic Selection and Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_1.html#tasks",
+    "href": "week_1.html#tasks",
+    "title": "Week 1: Topic Selection and Research",
+    "section": "Tasks",
+    "text": "Tasks\n\nReview the available topics and associated papers.\nConsider your interests and rate your preferences for the different topics.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 1: Topic Selection and Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_1.html#next-steps",
+    "href": "week_1.html#next-steps",
+    "title": "Week 1: Topic Selection and Research",
+    "section": "Next Steps",
+    "text": "Next Steps\nIn the coming weeks, you’ll dive deeper into your chosen topic, conduct in-depth research, and begin planning your podcast episode. Start thinking about what aspects of your topic you find most intriguing and what questions you’d like to explore further.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 1: Topic Selection and Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html",
+    "href": "week_2.html",
+    "title": "Week 2: In-depth Research",
+    "section": "",
+    "text": "Objectives\nBy the end of this week, you will:",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html#objectives",
+    "href": "week_2.html#objectives",
+    "title": "Week 2: In-depth Research",
+    "section": "",
+    "text": "Establish initial communication within their respective grops\nUnderstand how to conduct topic-specific literature searches\nDistribute tasks among group members (reading, recording, editing, speaking, interviewing)\nBegin in-depth reading on their chosen topic\n\n\nKey Ideas from Previous Weeks\n\nThe recording should not be a formal presentation of a paper\nUse the skeptical watchlist while researching (available on this book and on PRADO)",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html#group-formation",
+    "href": "week_2.html#group-formation",
+    "title": "Week 2: In-depth Research",
+    "section": "Group Formation",
+    "text": "Group Formation\n\nGroups have been created based on your 1st or 2nd choice preferences\nEach group consists of 2-3 members for balanced workload and efficiency\nReach out to your group members and start collaborating\nBe mindful of others’ needs and ensure everyone feels comfortable\nIf you encounter any issues, please reach out to us for solutions",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html#in-depth-research",
+    "href": "week_2.html#in-depth-research",
+    "title": "Week 2: In-depth Research",
+    "section": "In-depth Research",
+    "text": "In-depth Research\n\nGetting Started\nWe gave you an initial paper for each one of the topics. Now it is time to review the one for your topic so that you can pull out some ideas and some more refereces that can guide you deeper into a concrete direction. Here are a few questions that might help you extract the relevant information from the paper:\n\nWhat’s the main focus of the article?\nWhich sections interest you most?\nDo you need additional context to understand certain parts?\nWhat other studies inspired the authors?\n\n\n\nFinding Additional Resources\nWhen conducting online scientific literature searches, you have several options, each with its own trade-offs between search time and output validation time.\n\nTraditional Databases\n\nPlatforms like Scopus and PubMed offer comprehensive, curated collections of scientific literature.\nThese databases typically require more search time but provide highly reliable, peer-reviewed results.\n\nGoogle Scholar\n\nA popular middle-ground option that balances search speed and result breadth.\nIt offers a user-friendly interface and wide coverage across various disciplines.\nWhile faster than traditional databases, it may include some non-peer-reviewed content.\n\nAI-Powered Tools\n\nEmerging platforms like Consensus use artificial intelligence to streamline the search process.\nThese tools significantly reduce search time but may require additional effort to validate outputs.\n\n\nValidation of search results is crucial, especially when using faster, more inclusive search methods. Google Scholar may include non-peer-reviewed materials, preprints, or even non-academic sources, which can affect the reliability of your research if not properly vetted. AI-powered tools, while efficient, may occasionally “hallucinate” or generate inaccurate information, particularly when dealing with specific data points or less common topics. These tools might also misinterpret context or nuance in complex scientific discussions. Therefore, it’s essential to cross-reference findings, verify sources, and critically evaluate the relevance and accuracy of search results, regardless of the platform used.\n\n\n\nSchematic depiction of the trade off between search time and validation time\n\n\nWhen choosing a search method, consider your research needs:\n\nFor thorough, highly validated results, traditional databases may be preferable.\nFor quick, broad searches, Google Scholar offers a good balance.\nFor rapid literature reviews or initial explorations, AI-powered tools can be valuable, but exercise caution and verify findings.\n\nRemember, the faster the search process, the more time you might need to spend validating the results. Choose the approach that best fits your research goals and time constraints, and always maintain a critical eye when reviewing your findings.\n\n\nAccessing papers:\n\nUse university network or VPN for paywalled journals\nTry different versions if available\nReach out to us if you can’t access a paper\n\n\n\nAlternative Research Methods\nExplore other platforms for ideas as well as for information:\n\nYouTube channels (e.g., kurzgesagt, AsapSCIENCE, WIRED)\nPodcasts (e.g., Brain Inspired, StarTalk, Lex Fridman Podcast)\n\nRemember to use your skeptical watchlist when exploring these sources!",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html#defining-your-podcast-audience",
+    "href": "week_2.html#defining-your-podcast-audience",
+    "title": "Week 2: In-depth Research",
+    "section": "Defining Your Podcast Audience",
+    "text": "Defining Your Podcast Audience\nWhen creating a science-based podcast (or any kind of podcast, tbh), one of the most crucial decisions you’ll make is choosing your target audience. This choice should be made early in the planning process, as it will significantly influence various aspects of your podcast, including content, format, tone, and language.\n\nWhy Audience Matters\n\nContent Depth: The level of detail and complexity in your discussions will vary greatly depending on whether you’re addressing neuroscience specialists or the general public.\nLanguage Use: Technical jargon appropriate for scientists might confuse a lay audience, while oversimplification could bore experts.\nTopic Selection: Your audience’s background knowledge and interests will guide which topics are most relevant and engaging.\nFormat and Style: The podcast’s structure, length of the sections, and presentation style should cater to your audience’s preferences and listening habits.\n\n\n\nPotential Target Audiences\nConsider these example audience categories to aid your definition of your podcast’s focus:\n\nSpecialist Neuroscientists:\n\nHighly technical content\nIn-depth discussions of current research\nUse of field-specific terminology\n\nGeneral Scientists:\n\nBroader scientific context\nInterdisciplinary connections\nLess neuroscience-specific jargon\n\nPsychologists without Scientific Background:\n\nFocus on practical applications\nSimplified explanations of neuroscientific concepts\nConnections to psychological theories and practices\n\nGeneral Population:\n\nEmphasis on relatable examples and real-world implications\nClear, jargon-free explanations\nMore time spent on foundational concepts\n\n\nThis list is not exhaustive and other types of audiences can be considered. But bear in mind that by clearly defining your target audience in advance, you can create a more focused, engaging, and effective product. This clarity will guide your content creation process and help you build an engaging episode.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html#tasks-for-this-week",
+    "href": "week_2.html#tasks-for-this-week",
+    "title": "Week 2: In-depth Research",
+    "section": "Tasks for This Week",
+    "text": "Tasks for This Week\n\nConnect with your group members\nReview the suggested paper for your topic\nConduct initial literature searches\nDistribute reading tasks among group members\nBegin in-depth reading of your assigned materials",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html#potential-questions-we-anticipate",
+    "href": "week_2.html#potential-questions-we-anticipate",
+    "title": "Week 2: In-depth Research",
+    "section": "Potential questions we anticipate",
+    "text": "Potential questions we anticipate\nQ: How many papers do we need to read?\nA: There’s no set minimum or maximum. Focus on quality and relevance.\nQ: What if I find conflicting information in different papers?\nA: This is normal in science! Use your skeptical watchlist to evaluate the papers’ credibility. If you can’t decide, consider discussing both perspectives in your podcast – competing accounts are part of scientific progress.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_2.html#next-steps",
+    "href": "week_2.html#next-steps",
+    "title": "Week 2: In-depth Research",
+    "section": "Next Steps",
+    "text": "Next Steps\nIn the next week, we’ll focus on narrowing down your topic into a central and manageable idea and on defining your target audience.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 2: In-depth Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_3.html",
+    "href": "week_3.html",
+    "title": "Week 3: Narrowing Down Your Research",
+    "section": "",
+    "text": "Objectives\nThroughout this week you will:",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Week 3: Narrowing Down Your Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_3.html#objectives",
+    "href": "week_3.html#objectives",
+    "title": "Week 3: Narrowing Down Your Research",
+    "section": "",
+    "text": "PENDING",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Week 3: Narrowing Down Your Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_3.html#tasks",
+    "href": "week_3.html#tasks",
+    "title": "Week 3: Narrowing Down Your Research",
+    "section": "Tasks",
+    "text": "Tasks\n\nPENDING:",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Week 3: Narrowing Down Your Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_3.html#next-steps",
+    "href": "week_3.html#next-steps",
+    "title": "Week 3: Narrowing Down Your Research",
+    "section": "Next Steps",
+    "text": "Next Steps\nPENDING",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Week 3: Narrowing Down Your Research</span>"
+    ]
+  },
+  {
+    "objectID": "week_4.html",
+    "href": "week_4.html",
+    "title": "Week 4: Episode Outline",
+    "section": "",
+    "text": "Objectives\nThroughout this week you will:",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 4: Episode Outline</span>"
+    ]
+  },
+  {
+    "objectID": "week_4.html#objectives",
+    "href": "week_4.html#objectives",
+    "title": "Week 4: Episode Outline",
+    "section": "",
+    "text": "Continue refining the content through additional reading.\nDevelop an outline for the podcast episode collaboratively.\nDecide on the tone (formal, light, fun) of the episode.\nAssign roles for the final episode (who will speak, etc.).\nBegin working individually on respective sections.\nSeek guidance and feedback as needed.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 4: Episode Outline</span>"
+    ]
+  },
+  {
+    "objectID": "week_4.html#key-ideas-from-previous-sessions",
+    "href": "week_4.html#key-ideas-from-previous-sessions",
+    "title": "Week 4: Episode Outline",
+    "section": "Key Ideas from Previous Sessions",
+    "text": "Key Ideas from Previous Sessions\n\nAlways keep in mind who your target audience is while you tailor the content and format of your work.\nFocus on a narrow sub-topic within your main topic. Conveying a few ideas effectively is better than swampping the audience in information.\nAttribute different roles to group members is a great way to maximize efficiency\nThe recording should not be a formal presentation of a paper\nUse the skeptical watchlist while researching (available on this book and on PRADO)",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 4: Episode Outline</span>"
+    ]
+  },
+  {
+    "objectID": "week_4.html#tasks",
+    "href": "week_4.html#tasks",
+    "title": "Week 4: Episode Outline",
+    "section": "Tasks",
+    "text": "Tasks\n\nRefine Content:\n\nIdentify key points and supporting details to include in the episode.\nConduct further reading on your selected topic. This keeps coming back again and again. And it does so for a reason! Reading and researching is keep to inform your opinion.\n\nIMPORTANT NOTE!! Not everything that you find (every paper, study, podcast) needs to be included or unpacked in the episode. Sometimes, this extra bits of information allow you to structure the ideas and to enrich the overall narrative with a novel angle but this might be not directly apparent for the a\nDevelop Episode Outline:\n\nWork together to create a structured outline for the podcast episode.\nEnsure the outline flows logically from one section to the next.\n\n\nAnd here’s an example Outline for an ~8-minute podcast on “Perceptual Illusions”\n\n\n\n\n\n\nPodcast Outline\n\n\n\n\n\nTitle: “Tricking the Brain: The Fascinating World of Perceptual Illusions”\n00:00 - 00:10 | Jingle - Intro music\n00:10 - 01:00 | Welcome (Host A)  - Fade out of the jingle throughout\n\nWelcome listeners\nBrief explanation of perceptual illusions\nTease interesting examples to come\n\n01:00 - 03:00 | Visual Illusions (Host B) - Subtle background music\n\nExplain how visual illusions work\nSignal two famous examples (Rabbit-Duck illusion, Rubin’s vase). “I’m sure you have seen”\nTransition: “But it’s not just our eyes that can be fooled…”\n\n03:00 - 05:00 | Auditory Illusions (Host A)\n\nIntroduction to auditory illusions\nShowcase the McGurk effect with listeners mentally visualizing the mouth movements (play audio example)\nExplain the science behind it\n\n05:00 - 07:00 | Interview Inset (Host B & Guest Expert) - Subtle background music\n\nBriefly introduce guest neuroscientist: “We got the opportunity to talk with…”\nQ1: Why did our brains evolve to be susceptible to illusions?\nQ2: Are some people more prone to experiencing illusions than others?\n\n07:00 - 08:00 | Outside the Lab (Host A) - Sound effects\n\nIllusions around us:\n\nArt and design\nFilms\n\n\n08:00 - 08:30 | Outtro\n\nConcluding message: “What we perceive with our senses, is not necessarily there…”\nThank listeners\nOutro song\n\nSound Effects/Music:\n\nIntro jingle: Stock music\nSubtle background music during segments: Stock music\nSound effects: Stock audio\nOutro song: There, there by Radiohead\n\n\n\n\n\nDecide on Tone:\n\nDiscuss as a group whether the episode should be formal, light-hearted, or a mix.\nChoose a tone that fits the topic and your audience.\n\nAssign Roles:\n\nDetermine who will speak in each part of the episode.\nAssign specific sections to each group member for detailed preparation.\n\nIndividual Work:\n\nBegin drafting your assigned sections.\nIncorporate feedback from peers and instructors as you go.\n\nSeek Guidance:\n\nReach out to your instructors or peers for feedback and support as needed.\nEnsure that everyone is on track and any issues are addressed promptly.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 4: Episode Outline</span>"
+    ]
+  },
+  {
+    "objectID": "week_4.html#next-steps",
+    "href": "week_4.html#next-steps",
+    "title": "Week 4: Episode Outline",
+    "section": "Next Steps",
+    "text": "Next Steps\nStay focused and collaborative as you work through these tasks. Your efforts now will set a solid foundation for the upcoming stages of your podcast project. In the following week we will talk about interviewing experts.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 4: Episode Outline</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html",
+    "href": "week_5.html",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "",
+    "text": "Quick Recap\nAt this stage, you should have narrowed down your search space and started researching a specific subtopic within Cognitive Neuroscience. We’re now moving into the optional phase of preparing for expert interviews. Also, it is time for milestone 2!",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#objectives",
+    "href": "week_5.html#objectives",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "Objectives",
+    "text": "Objectives\nBy the end of the week you will:\n\nHave decided whether you want to interview the expert or not\nContinue in-depth reading of your subtopic\nDeliver milestone 2: a draft of the podcast outline",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#milestone-2",
+    "href": "week_5.html#milestone-2",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "Milestone 2",
+    "text": "Milestone 2\nDraft an episode outline and role assignments by the end of the week. You will be able to submit the assignment as a task on PRADO. We will give you feedback as soon as possible so that you can integrate it and improve it. What does a podcast outline look like, you ask? There is no single correct format, as the outline depends directly on your chosen podcast style (check the materials from the previous session for more on this). However, there are a several elements that any outline should include:\n\nThe structure in sections and/or topics to be covered\nBrief notes on the content of each section\nThe aproximate timestamps of when each section starts\nLabels indicating who is going to speak in each section\nElements for listener engagement (e.g., pop-culture examples, direct questions, call-to-action)\nPlanned transitions between segments\nAny sound effects or music cues",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#the-experts",
+    "href": "week_5.html#the-experts",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "The Experts",
+    "text": "The Experts\nWe’ve selected a group of experts based on your subtopics. These are researchers currently working in Granada or with a history of collaborations at the UGR.\n\nAll experts are friendly but very busy, so be mindful of their time.\nThey have agreed to talk to you and are looking forward to your emails.\nNot all experts are comfortable with being recorded, so be prepared to be flexible with the format.\nSome subtopics have two experts, others only one. If you have more than one, consider talking to both only if you think that they can offer different perspectives.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#researching-your-expert",
+    "href": "week_5.html#researching-your-expert",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "Researching Your Expert",
+    "text": "Researching Your Expert\nBefore reaching out, it’s important to understand who your expert is:\n\nUse Google Scholar to research your expert:\n\nRead titles and abstracts of their top-cited articles and most recent publications.\nCheck if they have a personal website stating their research interests.\nUnderstand their career stage and what that means for your research.\n\nConsider what information the expert can provide:\n\nKeep in mind that your research question and their expertise may not completely overlap.\nDifferent expert profiles might provide different types of information:\n\nA global view on the topic\nAnswers to specific questions\nClarification of conflicting findings\nMethodological nuances\nDifferent perspectives you might be missing",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#choosing-an-interview-format",
+    "href": "week_5.html#choosing-an-interview-format",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "Choosing an Interview Format",
+    "text": "Choosing an Interview Format\nConsider different formats for the interview:\n\nAudio recording\nInformal chat\nReal-time Q&A (in person or online)\nQ&A via email\n\nBe prepared to negotiate the format with the expert based on their preferences and availability.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#reaching-out-to-the-expert",
+    "href": "week_5.html#reaching-out-to-the-expert",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "Reaching Out to the Expert",
+    "text": "Reaching Out to the Expert\nWhen contacting the expert there are a few things that you should keep in mind:\n\nBe formal until told otherwise.\nReach out via email (no need to cc course instructors).\nIntroduce yourselves: Who are you? What are you interested in? What is your proposal?\nOffer several possibilities regarding the interview format.\nTry to capture their attention while being respectful of their time.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#preparing-for-the-interview",
+    "href": "week_5.html#preparing-for-the-interview",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "Preparing for the Interview",
+    "text": "Preparing for the Interview\nOnce you’ve scheduled the interview:\n\nPrepare thoroughly:\n\nFamiliarize yourself with the relevant part of the expert’s field.\nSend questions in advance if possible, allowing the expert to prepare.\nIf recording, test your equipment beforehand.\nDecide who will conduct the interview to avoid overwhelming the expert.\n\nDuring the interview:\n\nBe punctual and respectful.\nBe ready to intake as much information as possible.\nAsk for clarification if needed, but avoid confrontation.\nTake notes, even if you’re recording.\nStick to the agreed-upon time.\nThank the expert and inform them about your plans for the gathered material.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_5.html#next-steps",
+    "href": "week_5.html#next-steps",
+    "title": "Week 5: Preparing the Interviews",
+    "section": "Next Steps",
+    "text": "Next Steps\nAfter conducting your interview(s), you’ll need to synthesize the information you’ve gathered with your existing research. It is important to note that not all the information maybe necessary in the final product. The interview(s) will help shape your podcast episode and ensure you’re presenting a well-rounded, informed perspective on your chosen topic.\nRemember, the goal is not just to collect information and paste it in the audio file, but to use this opportunity to gain deeper insights into your subject area and potentially uncover new angles for your podcast.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 5: Preparing the Interviews</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html",
+    "href": "week_6.html",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "",
+    "text": "Quick Recap\nAt this stage, you should have an outline for your episode, which should guide more specific reading and interviewing. Remember, the deadline for Milestone 3 (Script draft) is still a few weeks from now but it is a good idea to already start working on it.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#the-writing-process",
+    "href": "week_6.html#the-writing-process",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "The Writing Process",
+    "text": "The Writing Process\nThe general flow of creating your podcast episode should follow this pattern:\nIdea -&gt; Reading -&gt; Outline -&gt; Reading -&gt; Writing (first draft)\nBefore diving into the script, ensure you have:\n\nA concrete a manageable topic\nA detailed outline of the episode\nA target audience\nA tone for your podcast",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#types-of-podcast-scripts",
+    "href": "week_6.html#types-of-podcast-scripts",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "Types of Podcast Scripts",
+    "text": "Types of Podcast Scripts\nThere are three main types of podcast scripts:\n\nFully scripted: Everything you intend to say is planned out. This makes recording and editing easier but can sound less spontaneous unless you bring a bit of acting to it.\nBullet script: More suitable for conversational podcasts. It allows for a natural flow while keeping the discussion on track.\nTalking points: The least structured approach. You only have main points, allowing the conversation to develop naturally.\n\nChoose the type that best fits the style of your group members and the content that you chose.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#who-should-write-the-script",
+    "href": "week_6.html#who-should-write-the-script",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "Who Should Write the Script?",
+    "text": "Who Should Write the Script?\nAs with lit. search, distributing roles here can also be very effective. For instance, your group could do the following:\n\nPerson X writes the initial draft\nPerson Y edits the first draft\nPerson Z takes the draft and the edits and create a polished version\n\nAnother valid option is to do cross-section editing:\n\nPerson X writes section 1\nPerson Y writes section 2\nPerson X edits section 2\nPerson Y edits section 1\nPerson X and Y incorporate edits of their sections\n\nThe writer should consider who will read the script and use language that the speaker is comfortable with.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#content-tips",
+    "href": "week_6.html#content-tips",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "Content Tips",
+    "text": "Content Tips\n\n1. Engaging Introduction\nStart with a captivating introduction to hook your listeners. Consider:\n\nA thought-provoking question\nA brief anecdote\nA teaser about the episode’s topic\n\n\n\n2. Clear and Concise Language\n\nUse clear, concise language. It is counterproductive to include complicated terms when they are not needed.\nAvoid jargon or overly technical terms. Think that this is not a written work so the audience should (ideally) not have to go back to re-listen some parts to understand them.\nExplain complex concepts in an simple way. This is 80% of your job as a communicatior!\n\n\n\n3. Engage the Audience\n\nAsk questions\nShare relatable stories\nUse examples and references the audience might know\n\n\n\n4. Take-home Message\nIn some cases, it might be a good idea to end with the key ideas you want listeners to retain. This is particularly true if you have a long(er) podcast &gt;7-8 minutes and/or if you have includeded several ideas and you have not talked about the first ones during the second half of the show. Think very strategically: does re-taking an idea already discussed benefit the overall message? For rather short communications, there is no obligation to include a recap of everything discussed, so only include it if it adds something. Can you summarise your ideas into a one-liner? Do you want to open more related questions to hint at distant connections?\n\n\n5. Continuous Research\nDon’t hesitate to do more research as you write. This is a good thing! New questions may arise, requiring further investigation.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#format-tips",
+    "href": "week_6.html#format-tips",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "Format Tips",
+    "text": "Format Tips\n\nFormat for easy reading:\n\nUse a conversational tone\nWrite short sentences\nUse bullet points or headings\nInclude cues for pauses, emphasis, and tone\n\nPractice reading aloud:\n\nIdentify awkward phrasing\nEdit for clarity and flow\nRemember that what works for silent reading might not work when read aloud\n\nCite your sources:\n\nAdds credibility\nHelps listeners find more information\nIMPORTANT: There’s no need to cite APA style (i.e., Last Name, Name, Title, Journal, Number, Page) as this is not a written report. Citations must be conversational as the full references will be included in a separate document.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#interview-tips",
+    "href": "week_6.html#interview-tips",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "Interview Tips",
+    "text": "Interview Tips\n\nBe concise: Tailor questions to what you expect from the interview\nFocused questions: Don’t ask questions that cover the entire scope of the episode\nBalance: Don’t make the expert the center of the episode\nAvoid broad closing questions: Don’t ask the expert to summarize everything in one sentence",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#general-tips",
+    "href": "week_6.html#general-tips",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "General Tips",
+    "text": "General Tips\n\nStay Adaptable: Be open to feedback and willing to improve\nEvaluate and Iterate: Assess what’s working and make adjustments\nQuality over Quantity: Sometimes less information, presented clearly, is more effective",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_6.html#next-steps",
+    "href": "week_6.html#next-steps",
+    "title": "Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)",
+    "section": "Next Steps",
+    "text": "Next Steps\nAfter completing your script draft:\n\nReview it as a group\nPractice reading it aloud\nMake necessary revisions\nPrepare for the recording phase\n\nRemember, a good script is the foundation of a great podcast episode. Take your time, be thorough, and don’t be afraid to revise and improve as you go along.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 6: Script Writing (Part 1) + Recording Interviews (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_7.html",
+    "href": "week_7.html",
+    "title": "Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)",
+    "section": "",
+    "text": "Objectives",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)</span>"
+    ]
+  },
+  {
+    "objectID": "week_7.html#objectives",
+    "href": "week_7.html#objectives",
+    "title": "Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)",
+    "section": "",
+    "text": "Continue recording interviews.\nReview and adjust the episode outline if necessary.\nContinue writing the script.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)</span>"
+    ]
+  },
+  {
+    "objectID": "week_7.html#key-ideas-from-previous-sessions",
+    "href": "week_7.html#key-ideas-from-previous-sessions",
+    "title": "Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)",
+    "section": "Key Ideas from Previous Sessions",
+    "text": "Key Ideas from Previous Sessions\n\nImportance of high-quality interviews for efficiently acquiring information.\nStructuring a compelling script for the podcast episode.\nIf you are including the interviews, ensure they are well integrated.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)</span>"
+    ]
+  },
+  {
+    "objectID": "week_7.html#tasks",
+    "href": "week_7.html#tasks",
+    "title": "Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)",
+    "section": "Tasks",
+    "text": "Tasks\n\nRecording Interviews:\n\nContinue with the interview recordings.\n\nReview and Adjust Outline:\n\nRevisit the episode outline and make necessary adjustments based on new insights from the interviews.\n\nScript Writing:\n\nContinue drafting the script for your podcast episode.\nEnsure the script flows logically and incorporates feedback from previous sessions.\n\nDo you need feeback?\n\nReach out! Use the allocated times for this week’s session to come ask for questions.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)</span>"
+    ]
+  },
+  {
+    "objectID": "week_7.html#milestone-3",
+    "href": "week_7.html#milestone-3",
+    "title": "Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)",
+    "section": "Milestone 3",
+    "text": "Milestone 3\nSend us the current draft of your script by the end of this week. This script needs to be as detailed as your podcast format needs it to be. If you are going to a fully-scripted type of podcast, then everything that you will say needs to be written; if you are going to an intermediate type, then include as many information as you will need during the recording; if you are going for total improvisation make sure the have listed at least some talking points so that the conversation does not divert too much.\nYou will have a task in PRADO for one of your group members to upload the file.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)</span>"
+    ]
+  },
+  {
+    "objectID": "week_7.html#next-steps",
+    "href": "week_7.html#next-steps",
+    "title": "Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)",
+    "section": "Next Steps",
+    "text": "Next Steps\nIn the next couple of sessions we will do an introduction to podcast recording tools and techniques and basic audio editing techniques. While this week involves a significant amount of autonomous work, remember to reach out for guidance and feedback as needed. Collaborative efforts and continual refinement are key to creating a successful podcast episode.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Week 7: Script Writing (Part 2) + Recording Interviews (Part 2)</span>"
+    ]
+  },
+  {
+    "objectID": "week_8.html",
+    "href": "week_8.html",
+    "title": "Week 8: Intro to Recording",
+    "section": "",
+    "text": "Quick Recap\nAt this stage, you should have an initial draft of your script and either have received or are about to receive feedback on it.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 8: Intro to Recording</span>"
+    ]
+  },
+  {
+    "objectID": "week_8.html#the-recording-process",
+    "href": "week_8.html#the-recording-process",
+    "title": "Week 8: Intro to Recording",
+    "section": "The Recording Process",
+    "text": "The Recording Process\nThe general flow for creating your podcast episode should follow this pattern:\nIdea -&gt; Reading -&gt; Outline -&gt; Reading -&gt; Writing (first draft) -&gt; Feedback -&gt; Polish script -&gt; Recording\nEnsure you have a curated script before beginning the recording process.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 8: Intro to Recording</span>"
+    ]
+  },
+  {
+    "objectID": "week_8.html#when-should-we-start-recording",
+    "href": "week_8.html#when-should-we-start-recording",
+    "title": "Week 8: Intro to Recording",
+    "section": "When Should We Start Recording?",
+    "text": "When Should We Start Recording?\nIt’s important to start recording once you have a polished script. This will make the recording process smoother and more efficient.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 8: Intro to Recording</span>"
+    ]
+  },
+  {
+    "objectID": "week_8.html#who-should-record",
+    "href": "week_8.html#who-should-record",
+    "title": "Week 8: Intro to Recording",
+    "section": "Who Should Record?",
+    "text": "Who Should Record?\nDistributing roles can be an effective strategy:\n\nSpeaking:\n\nThe voice is your main medium of communication (similar to the font in a written essay)\nWork on articulation, tone, and pacing\nFamiliarize yourself with the script (know when and what to emphasize)\nEncourage authenticity: Let your personality guide your performance\n\nRecording:\n\nHandle equipment (microphones, recording software)\nManage the recording environment\nPractice, practice, practice\nChallenge yourself (e.g., start and stop recording suddenly, push the computer)\n\nProducing:\n\nAct as a pilot listener. How does it feel?\nEnsure logical and engaging content\nDetermine if anything needs to be re-recorded",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 8: Intro to Recording</span>"
+    ]
+  },
+  {
+    "objectID": "week_8.html#recording-equipment-and-software",
+    "href": "week_8.html#recording-equipment-and-software",
+    "title": "Week 8: Intro to Recording",
+    "section": "Recording Equipment and Software",
+    "text": "Recording Equipment and Software\n\nEquipment:\n\nExternal microphones\nCell phone\nHeadphones\nQuiet environment (avoid big, empty rooms)\n\n\n\nSoftware:\n\nYour cell phone’s built-in recording app may be sufficient\nFor online recording or multiple audio tracks, consider using https://zencastr.com/\n\n\n\nAudio Format:\n\nChoose mp3 for easier handling later\nUse online platforms for format conversion if needed (e.g., https://convertio.co/es/ogg-mp3/)",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 8: Intro to Recording</span>"
+    ]
+  },
+  {
+    "objectID": "week_8.html#final-remarks",
+    "href": "week_8.html#final-remarks",
+    "title": "Week 8: Intro to Recording",
+    "section": "Final Remarks",
+    "text": "Final Remarks\nRemember that while technical aspects are important, the content of your podcast is paramount. Use these tools and techniques to enhance your message, not overshadow it. Always listen to your final product and be willing to make adjustments to ensure the best possible quality.\nAs you move forward with recording, don’t hesitate to seek feedback from your peers or instructors. The process of creating a podcast is iterative, and each round of feedback can help improve your final product.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 8: Intro to Recording</span>"
+    ]
+  },
+  {
+    "objectID": "week_8.html#next-steps",
+    "href": "week_8.html#next-steps",
+    "title": "Week 8: Intro to Recording",
+    "section": "Next Steps",
+    "text": "Next Steps\nNext week we will talk about editing audio files. This process can greatly change the feeling of your podcast. Good luck finishing your scripts, and remember to enjoy the process of bringing your ideas to life through audio!",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 8: Intro to Recording</span>"
+    ]
+  },
+  {
+    "objectID": "week_9.html",
+    "href": "week_9.html",
+    "title": "Week 9: Intro to Editing",
+    "section": "",
+    "text": "Quick Recap\nAt this stage, you should have an initial draft of your script and either have received or are about to receive feedback on it.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 9: Intro to Editing</span>"
+    ]
+  },
+  {
+    "objectID": "week_9.html#the-editing-process",
+    "href": "week_9.html#the-editing-process",
+    "title": "Week 9: Intro to Editing",
+    "section": "The Editing Process",
+    "text": "The Editing Process\nThe general flow for creating your podcast episode should follow this pattern:\nIdea -&gt; Reading -&gt; Outline -&gt; Reading -&gt; Writing (first draft) -&gt; Feedback -&gt; Polish script -&gt; Recording -&gt; Editing\nEditing might require you to re-record some bits. This is normal. The listener will not know when certain sentences where recorded. Do use that opportunity to your advantage!\n\nEquipment:\n\nComputer\nHeadphones\nTime, patience, and creativity!\n\n\n\nSoftware:\n\nIf you’re familiar with an audio editing program, use it!\nAudacity is a popular choice\nFor more advanced editing, consider Descript (https://www.descript.com/) or Hindenburg Journalist (https://hindenburg.com/academy/trial/)",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 9: Intro to Editing</span>"
+    ]
+  },
+  {
+    "objectID": "week_9.html#tips-for-quality-recording-and-editing",
+    "href": "week_9.html#tips-for-quality-recording-and-editing",
+    "title": "Week 9: Intro to Editing",
+    "section": "Tips for Quality Recording and Editing",
+    "text": "Tips for Quality Recording and Editing\n\nFocus on content: Audio is a coarse format, so content is key!\nEnhance your recording: Consider adding background music, sound effects, or transitions\nAvoid common pitfalls:\n\nEliminate background noises\nUse a microphone that doesn’t introduce buzzing\nIf multiple people are speaking, avoid talking over each other\n\nListen and judge: Always review your recording to ensure you’re satisfied with the result",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 9: Intro to Editing</span>"
+    ]
+  },
+  {
+    "objectID": "week_9.html#final-remarks",
+    "href": "week_9.html#final-remarks",
+    "title": "Week 9: Intro to Editing",
+    "section": "Final Remarks",
+    "text": "Final Remarks\nRemember that content is what is central. The format (music, transitions, edits) is just a nice envelope but one that will have a direct impact on how your audience takes in the message. Thus, it is a very important aspect that, if done poorly, can ruin the entire experience before it even begins.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 9: Intro to Editing</span>"
+    ]
+  },
+  {
+    "objectID": "week_9.html#next-steps",
+    "href": "week_9.html#next-steps",
+    "title": "Week 9: Intro to Editing",
+    "section": "Next Steps",
+    "text": "Next Steps\nThe next couple of weeks will be devoted to recording! Do spend time crafting the recordings and polishing them during post-production. Good luck with your edits, and remember to enjoy the process!",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 9: Intro to Editing</span>"
+    ]
+  },
+  {
+    "objectID": "week_10.html",
+    "href": "week_10.html",
+    "title": "Week 10: Recording and Audio Editing (Part 1)",
+    "section": "",
+    "text": "Objectives",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 10: Recording and Audio Editing (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_10.html#objectives",
+    "href": "week_10.html#objectives",
+    "title": "Week 10: Recording and Audio Editing (Part 1)",
+    "section": "",
+    "text": "Start recording the episode using the developed script.\nStart gathering all the audio files needed (e.g., songs, jingles, different recordings)",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 10: Recording and Audio Editing (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_10.html#tasks",
+    "href": "week_10.html#tasks",
+    "title": "Week 10: Recording and Audio Editing (Part 1)",
+    "section": "Tasks",
+    "text": "Tasks\nStart Recording! Ensure that the recording environment is quiet and free of interruptions.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 10: Recording and Audio Editing (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_10.html#tips",
+    "href": "week_10.html#tips",
+    "title": "Week 10: Recording and Audio Editing (Part 1)",
+    "section": "Tips",
+    "text": "Tips\n\nRecording Environment:\n\nChoose a quiet place to record to minimize background noise.\nUse a good quality microphone and check levels before starting.\n\nScript Usage:\n\nFollow the script closely but feel free to make natural adjustments.\nPractice sections beforehand to ensure a smooth delivery.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 10: Recording and Audio Editing (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_10.html#next-steps",
+    "href": "week_10.html#next-steps",
+    "title": "Week 10: Recording and Audio Editing (Part 1)",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nContinue recording and start audio editing.\nReview and refine the entire podcast episode.\n\nRemember, this week is critical for setting the foundation of your final podcast episode. Take your time to ensure high-quality recordings and don’t hesitate to ask for help when needed.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 10: Recording and Audio Editing (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "week_11.html",
+    "href": "week_11.html",
+    "title": "Week 11: Recording and Audio Editing (Part 2) and Final product",
+    "section": "",
+    "text": "Objectives",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Week 11: Recording and Audio Editing (Part 2) and Final product</span>"
+    ]
+  },
+  {
+    "objectID": "week_11.html#objectives",
+    "href": "week_11.html#objectives",
+    "title": "Week 11: Recording and Audio Editing (Part 2) and Final product",
+    "section": "",
+    "text": "Continue recording if any bits are missing still.\nReview and revise the entire podcast episode as a group.\nMake necessary edits to enhance the episode’s flow and quality.\nSubmit the assignment",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Week 11: Recording and Audio Editing (Part 2) and Final product</span>"
+    ]
+  },
+  {
+    "objectID": "week_11.html#tasks",
+    "href": "week_11.html#tasks",
+    "title": "Week 11: Recording and Audio Editing (Part 2) and Final product",
+    "section": "Tasks",
+    "text": "Tasks\n\nAudio Editing:\n\nBegin editing the recorded audio to improve clarity and coherence.\nRemove any unnecessary parts or background noise.\nAdd background music, sound effects, transitions, etc.\n\nReview and Revise:\n\nListen to the entire podcast episode as a group.\nProvide feedback on the flow, coherence, and overall quality.\nMake necessary edits to enhance the episode.\n\nSubmit the final podcast:\n\nWe will open a platform in Prado\nOne of your group members must submit a single audio file (.mp3) and a pdf with the references used.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Week 11: Recording and Audio Editing (Part 2) and Final product</span>"
+    ]
+  },
+  {
+    "objectID": "week_11.html#next-steps",
+    "href": "week_11.html#next-steps",
+    "title": "Week 11: Recording and Audio Editing (Part 2) and Final product",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nIn the next two sessions we will listen to the recordings of all the groups. This will be beneficial for your group both as listeners and as creators. Also, you will have the opportunity of voting the podcast that you like most.\n\nThis week is crucial for refining your podcast episode. Make sure to address all feedback and focus on producing a high-quality final product.",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Week 11: Recording and Audio Editing (Part 2) and Final product</span>"
+    ]
+  },
+  {
+    "objectID": "week_12.html",
+    "href": "week_12.html",
+    "title": "Week 12: Podcast Presentations and Group Feedback",
+    "section": "",
+    "text": "You’ve made it to the finish line – great work! You’ve embarked on a CogNeuro journey to become podcast creators. Let’s take a quick look back at what you’ve pulled off in this course. Along the way, hopefully, you have acquired a set of very valuable skills from lit. search to audio editting. But also, some less easy to notice skills such as synthesizing tons of information and simplifying it down to its core elements. Congratulations on all of this!\nThis week we will jointly listen to the recordings of all the groups. This excersice will help you learn about what the others have done and how they have done it. It is a great opportunity to get ideas and, more importantly, to learn more about other areas of Cognitive Neuroscience: the better of a job they have done, the more you will be able to learn!\n\n\n\nThe image a podcaster’s brain podcasting about brains\n\n\nWe will encourage you to ask questions to the creators and to give them constructive feedback. You will also be on the other end of this feedback so, again, great opportunity to learn and to improve. After listening to each podcast you all will vote the podcast on different aspects (e.g., content, format) so that we can give the final prizes based on the opinions of your peers.\nFinally, we will gather feedback from all students on the entire podcast project so that we can improve it for the following year.\nLet’s make this session lively and engaging. Your participation and feedback are crucial for the success of this activity!",
+    "crumbs": [
+      "Weekly Content",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Week 12: Podcast Presentations and Group Feedback</span>"
+    ]
+  }
+]
