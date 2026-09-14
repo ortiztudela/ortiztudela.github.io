@@ -15,11 +15,13 @@ The resources listed here are open educational resources that are free to use, s
 
 ## Bachelor Courses
 
-[Cognitive Neuroscience 2425 - Small group sessions](/ortiztudela/teaching/ncc-2425_book/index.html)
+[Cognitive Neuroscience 2425 - Small group sessions](/teaching/ncc-2425_book/index.html)
 
-[Cognitive Neuroscience 2526 – Small group sessions](/ortiztudela/teaching/ncc-2526_book/index.html)
+[Cognitive Neuroscience 2526 – Small group sessions](/teaching/ncc-2526_book/index.html)
+
+[Cognitive Neuroscience 2627 – Small group sessions](/teaching/ncc-2627_book/index.html)
 
 
 ## Master Courses
 
-[Neuroanatomía y Neuroimagen Funcional 2526 – Neuroimagen Funcional](/ortiztudela/teaching/nanif-2526_book/index.html)
+[Neuroanatomía y Neuroimagen Funcional 2526 – Neuroimagen Funcional](/teaching/nanif-2526_book/index.html)
