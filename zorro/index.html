@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>¿Cuándo llega Zaro?</title>
+<title>¡Ya llegó el zorrito!</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
@@ -11,288 +11,89 @@
   --cream:#fbf5ec; --paper:#fffdf9; --ink:#3a2a20; --muted:#8a7565;
   --fox:#e2733a; --fox-dark:#b9551f; --fox-soft:#fbe3d2;
   --forest:#4f7a5a; --forest-soft:#e1ede3; --line:#efe2d3;
-  --full:#d9cfc4; --shadow:0 10px 30px rgba(120,70,30,.10);
+  --shadow:0 10px 30px rgba(120,70,30,.10);
 }
 *{box-sizing:border-box}
 html,body{margin:0}
-body{background:var(--cream);color:var(--ink);font-family:Nunito,system-ui,sans-serif;font-size:16px;line-height:1.5;
+body{background:var(--cream);color:var(--ink);font-family:Nunito,system-ui,sans-serif;font-size:16px;line-height:1.5;overflow-x:hidden;
   background-image:radial-gradient(circle at 10% 0%,#fde9d9 0,transparent 40%),radial-gradient(circle at 100% 30%,#e6f0e4 0,transparent 35%);}
-.wrap{max-width:720px;margin:0 auto;padding:28px 16px 60px}
-header{text-align:center}
-.fox{width:150px;height:auto;display:block;margin:0 auto 6px;animation:bob 4s ease-in-out infinite}
+.wrap{position:relative;z-index:1;max-width:640px;margin:0 auto;padding:28px 16px 60px;text-align:center}
+.fox{width:170px;height:auto;display:block;margin:0 auto 4px;animation:bob 4s ease-in-out infinite}
 @keyframes bob{50%{transform:translateY(-6px)}}
-h1{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:clamp(28px,7vw,42px);line-height:1.1;margin:6px 0 10px}
+.tag{display:inline-block;background:var(--forest-soft);color:#2f5238;font-weight:700;font-size:13px;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:5px 14px}
+h1{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:clamp(32px,8vw,48px);line-height:1.08;margin:14px 0 8px}
 h1 em{color:var(--fox);font-style:normal}
-.lead{color:var(--muted);max-width:520px;margin:0 auto}
-.hint{display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;margin:18px auto 0;
-  background:var(--forest-soft);color:#2f5238;border-radius:16px;padding:8px 16px;width:fit-content;max-width:100%;font-weight:600;font-size:14px}
-.hint b{background:#fff;border-radius:999px;padding:1px 9px}
-.card{background:var(--paper);border:1px solid var(--line);border-radius:22px;box-shadow:var(--shadow);padding:22px;margin-top:24px}
-.card h2{font-family:Fraunces,Georgia,serif;font-size:21px;margin:0 0 4px}
-.sub{color:var(--muted);font-size:14px;margin:0 0 16px}
-.fields{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-@media (max-width:480px){.fields{grid-template-columns:1fr}}
-input{width:100%;font:inherit;padding:12px 14px;border-radius:12px;border:1.5px solid var(--line);background:#fff;color:var(--ink)}
-input:focus{outline:none;border-color:var(--fox)}
-.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px;margin-top:6px}
-.dow{text-align:center;font-size:12px;font-weight:700;color:var(--muted);padding-bottom:2px}
-.day{position:relative;aspect-ratio:1;border-radius:14px;border:1.5px solid var(--line);background:#fff;font:inherit;font-weight:700;
-  color:var(--ink);cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:0;transition:.15s}
-.day:hover:not(:disabled){border-color:var(--fox);transform:translateY(-2px)}
-.day.likely{background:var(--fox-soft);border-color:#f4c4a3}
-.day.likely::after{content:"";position:absolute;top:5px;right:5px;width:7px;height:7px;border-radius:50%;background:var(--fox)}
-.day.sel{background:var(--fox);border-color:var(--fox-dark);color:#fff}
-.day:disabled{background:var(--full);border-color:var(--full);color:#9a8c80;cursor:not-allowed;text-decoration:line-through}
-.day .n{font-size:11px;font-weight:600;opacity:.8;text-decoration:none}
-.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--muted);margin-top:12px}
-.legend span{display:inline-flex;align-items:center;gap:6px}
-.sw{width:14px;height:14px;border-radius:4px;display:inline-block;border:1.5px solid var(--line)}
-.btn{display:block;width:100%;margin-top:18px;font:inherit;font-weight:700;font-size:17px;padding:14px;border:0;border-radius:14px;
-  background:var(--fox);color:#fff;cursor:pointer;box-shadow:0 6px 16px rgba(226,115,58,.35)}
-.btn:disabled{background:#e9c9b3;box-shadow:none;cursor:not-allowed}
-.msg{margin-top:12px;font-weight:600;min-height:1.5em;text-align:center}
-.msg.err{color:#b23b2a}
-.thanks{text-align:center}
-.thanks .big{font-family:Fraunces,Georgia,serif;font-size:24px;margin:4px 0}
-.results .day{cursor:default}
-.results .day:hover{transform:none}
-.bar{height:5px;border-radius:3px;background:var(--fox);margin-top:3px}
-.list{margin-top:18px;display:grid;gap:8px}
-.row{display:flex;gap:12px;align-items:flex-start;padding:10px 12px;border-radius:12px;background:var(--cream)}
-.row .d{font-family:Fraunces,Georgia,serif;font-weight:700;min-width:62px;color:var(--fox-dark)}
-.row .who{font-size:14px}
-.mine{outline:2px solid var(--forest)}
-.demo{background:#fff4c9;border:1px solid #f0d77a;color:#6b5512;border-radius:12px;padding:10px 14px;font-size:14px;margin-top:18px}
-.hidden{display:none}
-footer{text-align:center;color:var(--muted);font-size:13px;margin-top:30px}
+.lead{color:var(--muted);max-width:480px;margin:0 auto}
+.date{margin:26px auto 0;display:inline-flex;flex-direction:column;align-items:center;background:var(--paper);border:1px solid var(--line);
+  border-radius:20px;box-shadow:var(--shadow);overflow:hidden;min-width:150px}
+.date .m{background:var(--fox);color:#fff;font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:13px;width:100%;padding:6px 0}
+.date .d{font-family:Fraunces,Georgia,serif;font-size:64px;font-weight:700;line-height:1;padding:12px 24px 4px}
+.date .w{color:var(--muted);font-size:14px;padding-bottom:12px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);padding:28px 22px;margin-top:28px;position:relative}
+.trophy{font-size:40px;line-height:1}
+.card h2{font-family:Fraunces,Georgia,serif;font-size:15px;font-weight:500;color:var(--muted);margin:6px 0 0;letter-spacing:.04em;text-transform:uppercase}
+.winner{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:clamp(34px,9vw,52px);color:var(--fox-dark);margin:6px 0 10px;line-height:1.1}
+.card p{margin:0 auto;max-width:440px}
+.note{font-size:14px;color:var(--muted);margin-top:14px!important}
+.link{display:inline-block;margin-top:28px;font-weight:700;color:var(--fox-dark);text-decoration:none;border:1.5px solid #f4c4a3;background:var(--fox-soft);border-radius:14px;padding:12px 20px}
+.link:hover{background:#f8d4bb}
+footer{color:var(--muted);font-size:13px;margin-top:34px}
+.confetti{position:fixed;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+.confetti i{position:absolute;top:-20px;width:9px;height:14px;border-radius:2px;opacity:.85;animation:fall linear infinite}
+@keyframes fall{to{transform:translateY(110vh) rotate(540deg)}}
+@media (prefers-reduced-motion:reduce){.confetti,.fox{animation:none}.confetti{display:none}}
 </style>
 </head>
 <body>
+<div class="confetti" id="confetti" aria-hidden="true"></div>
 <div class="wrap">
-  <header>
-    <svg class="fox" viewBox="0 0 200 170" aria-hidden="true">
-      <ellipse cx="100" cy="160" rx="62" ry="7" fill="#000" opacity=".06"/>
-      <path d="M150 128c30-6 44-38 30-58-6 22-22 30-38 30z" fill="#e2733a"/>
-      <path d="M176 76c4 8 4 18-2 26-6-6-8-14-2-26z" fill="#fff"/>
-      <ellipse cx="100" cy="120" rx="44" ry="36" fill="#e2733a"/>
-      <ellipse cx="100" cy="130" rx="24" ry="24" fill="#fff6ee"/>
-      <path d="M52 30l20 40-30 8z" fill="#e2733a"/><path d="M148 30l-20 40 30 8z" fill="#e2733a"/>
-      <path d="M56 40l12 26-18 5z" fill="#4a2f22"/><path d="M144 40l-12 26 18 5z" fill="#4a2f22"/>
-      <path d="M40 74c0-22 26-34 60-34s60 12 60 34c0 20-28 40-60 40S40 94 40 74z" fill="#e2733a"/>
-      <path d="M100 114c-20 0-40-10-48-26 14 4 30 2 48 18 18-16 34-14 48-18-8 16-28 26-48 26z" fill="#fff6ee"/>
-      <path d="M78 76q6-6 12 0" stroke="#3a2a20" stroke-width="3.5" fill="none" stroke-linecap="round"/>
-      <path d="M110 76q6-6 12 0" stroke="#3a2a20" stroke-width="3.5" fill="none" stroke-linecap="round"/>
-      <ellipse cx="100" cy="98" rx="6" ry="4.5" fill="#3a2a20"/>
-      <circle cx="72" cy="88" r="5" fill="#f4a07a" opacity=".6"/><circle cx="128" cy="88" r="5" fill="#f4a07a" opacity=".6"/>
-    </svg>
-    <h1>¿Cuándo llega <em>Zaro</em>?</h1>
-    <p class="lead">Se acerca noviembre y alguien muy pequeño está a punto de asomar el hocico. Haz tu apuesta: ¿qué día crees que nacerá?</p>
-    <div class="hint">Las fechas más probables son <b>18</b> (ginecólogo), <b>19</b> (matrona), <b>20</b> (chatGPT) de noviembre</div>
-  </header>
+  <svg class="fox" viewBox="0 0 200 170" aria-hidden="true">
+    <ellipse cx="100" cy="160" rx="62" ry="7" fill="#000" opacity=".06"/>
+    <path d="M150 128c30-6 44-38 30-58-6 22-22 30-38 30z" fill="#e2733a"/>
+    <path d="M176 76c4 8 4 18-2 26-6-6-8-14-2-26z" fill="#fff"/>
+    <ellipse cx="100" cy="120" rx="44" ry="36" fill="#e2733a"/>
+    <ellipse cx="100" cy="130" rx="24" ry="24" fill="#fff6ee"/>
+    <path d="M52 30l20 40-30 8z" fill="#e2733a"/><path d="M148 30l-20 40 30 8z" fill="#e2733a"/>
+    <path d="M56 40l12 26-18 5z" fill="#4a2f22"/><path d="M144 40l-12 26 18 5z" fill="#4a2f22"/>
+    <path d="M40 74c0-22 26-34 60-34s60 12 60 34c0 20-28 40-60 40S40 94 40 74z" fill="#e2733a"/>
+    <path d="M100 114c-20 0-40-10-48-26 14 4 30 2 48 18 18-16 34-14 48-18-8 16-28 26-48 26z" fill="#fff6ee"/>
+    <path d="M78 76q6-6 12 0" stroke="#3a2a20" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <path d="M110 76q6-6 12 0" stroke="#3a2a20" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <ellipse cx="100" cy="98" rx="6" ry="4.5" fill="#3a2a20"/>
+    <circle cx="72" cy="88" r="5" fill="#f4a07a" opacity=".6"/><circle cx="128" cy="88" r="5" fill="#f4a07a" opacity=".6"/>
+  </svg>
+  <span class="tag">Apuestas cerradas</span>
+  <h1>¡Ya llegó el <em>zorrito</em>!</h1>
+  <p class="lead">Se adelantó a todos los pronósticos y decidió asomar el hocico antes de lo previsto. Gracias por acompañarnos en la espera.</p>
 
-  <div id="demo" class="demo hidden">Modo prueba: todavía no está conectada la base de datos, así que los votos solo se guardan en este navegador.</div>
+  <div class="date">
+    <div class="m">Noviembre</div>
+    <div class="d">6</div>
+    <div class="w">viernes · 2026</div>
+  </div>
 
-  <!-- Formulario de voto -->
-  <section id="voteCard" class="card">
-    <h2>1. ¿Quién eres?</h2>
-    <p class="sub">Para saber luego quién acertó.</p>
-    <div class="fields">
-      <input id="nombre" placeholder="Nombre" autocomplete="given-name" maxlength="40">
-      <input id="apellido" placeholder="Apellido" autocomplete="family-name" maxlength="40">
-    </div>
-
-    <h2 style="margin-top:22px">2. Elige un día de noviembre</h2>
-    <p class="sub">Cada día admite como mucho <span class="maxN">5</span> apuestas. Solo puedes votar una vez.</p>
-    <div id="cal" class="cal"></div>
-    <div class="legend">
-      <span><i class="sw" style="background:var(--fox-soft);border-color:#f4c4a3"></i>Más probables</span>
-      <span><i class="sw" style="background:var(--full);border-color:var(--full)"></i>Completo</span>
-    </div>
-    <button id="votar" class="btn" disabled>Elige un día</button>
-    <div id="msg" class="msg"></div>
+  <section class="card">
+    <div class="trophy">🏆</div>
+    <h2>Ganador de la apuesta</h2>
+    <div class="winner">Jean Philippe Savoureux</div>
+    <p>¡Enhorabuena, Tito JP!! Fuiste la única persona que acertó el día exacto. Ni el ginecólogo lo vio venir. 🦊🧡</p>
   </section>
 
-  <!-- Resultados -->
-  <section id="resCard" class="card results hidden">
-    <div class="thanks">
-      <div class="big">¡Apuesta registrada! 🦊</div>
-      <p class="sub" id="miVoto"></p>
-    </div>
-    <h2>Así van las apuestas</h2>
-    <p class="sub" id="total"></p>
-    <div id="calRes" class="cal"></div>
-    <div id="lista" class="list"></div>
-  </section>
+  <a class="link" href="apuestas.html">Ver todas las apuestas →</a>
 
   <footer>Hecho con cariño para esperar juntos 🧡</footer>
 </div>
-
-<script type="module">
-/* ====== CONFIGURACIÓN: pega aquí los datos de tu proyecto de Firebase ====== */
-const firebaseConfig = {
-  apiKey: "AIzaSyBRLEdEu3aCnLDJ2DCkYghOEk9OhjqgmNQ",
-  authDomain: "fpp-zaro.firebaseapp.com",
-  databaseURL: "https://fpp-zaro-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "fpp-zaro",
-  appId: "1:178992083851:web:61f0843d1e652303f9358e"
-};
-/* ========================================================================== */
-const MAX_POR_DIA = 5;
-const PROBABLES = [18, 19, 20];
-const AÑO = 2026, DIAS = 30;
-const PRIMER_DIA = (new Date(AÑO, 10, 1).getDay() + 6) % 7; // lunes = 0
-
-const $ = id => document.getElementById(id);
-document.querySelectorAll('.maxN').forEach(e => e.textContent = MAX_POR_DIA);
-const pad = d => String(d).padStart(2, '0');
-const claveNombre = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim().replace(/[^a-z0-9]+/g, '-');
-
-let votes = {};          // { "18": { "1": {name, ts}, ... } }
-let elegido = null;
-const MI_CLAVE = 'zorrito-voto';
-let miVoto = null;
-try { miVoto = JSON.parse(localStorage.getItem(MI_CLAVE)); } catch {}
-
-/* ---------- capa de datos (Firebase o modo prueba) ---------- */
-const conectado = !Object.values(firebaseConfig).some(v => v === 'PEGAR_AQUI');
-let api;
-if (conectado) {
-  const { initializeApp } = await import('https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js');
-  const db = await import('https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js');
-  const base = db.getDatabase(initializeApp(firebaseConfig));
-  api = {
-    escuchar(cb) { db.onValue(db.ref(base, 'votes'), s => cb(s.val() || {})); },
-    async votar(dia, nombre, clave) {
-      const ocupados = votes[pad(dia)] || {};
-      for (let slot = 1; slot <= MAX_POR_DIA; slot++) {
-        if (ocupados[slot]) continue;
-        try {
-          await db.update(db.ref(base), {
-            [`votes/${pad(dia)}/${slot}`]: { name: nombre, ts: Date.now() },
-            [`voters/${clave}`]: pad(dia)
-          });
-          return 'ok';
-        } catch (e) {
-          // ¿falló porque ya votó esta persona o porque alguien ocupó el hueco?
-          const yaVoto = (await db.get(db.ref(base, `voters/${clave}`))).exists();
-          if (yaVoto) return 'repetido';
-        }
-      }
-      return 'lleno';
-    }
-  };
-} else {
-  $('demo').classList.remove('hidden');
-  let local = {}; const subs = [];
-  try { local = JSON.parse(localStorage.getItem('zorrito-demo')) || {}; } catch {}
-  local.votes ||= {}; local.voters ||= {};
-  api = {
-    escuchar(cb) { subs.push(cb); cb(local.votes); },
-    async votar(dia, nombre, clave) {
-      if (local.voters[clave]) return 'repetido';
-      const d = local.votes[pad(dia)] ||= {};
-      const n = Object.keys(d).length;
-      if (n >= MAX_POR_DIA) return 'lleno';
-      d[n + 1] = { name: nombre, ts: Date.now() };
-      local.voters[clave] = pad(dia);
-      try { localStorage.setItem('zorrito-demo', JSON.stringify(local)); } catch {}
-      subs.forEach(f => f(local.votes));
-      return 'ok';
-    }
-  };
+<script>
+const c = document.getElementById('confetti');
+const cols = ['#e2733a','#f4a07a','#4f7a5a','#f0c75e','#fbe3d2','#b9551f'];
+for (let i = 0; i < 40; i++) {
+  const p = document.createElement('i');
+  p.style.left = Math.random() * 100 + 'vw';
+  p.style.background = cols[i % cols.length];
+  p.style.animationDuration = 5 + Math.random() * 6 + 's';
+  p.style.animationDelay = -Math.random() * 10 + 's';
+  c.appendChild(p);
 }
-
-/* ---------- pintar ---------- */
-const cuenta = d => Object.keys(votes[pad(d)] || {}).length;
-
-function cabecera(el) {
-  el.innerHTML = '';
-  ['L','M','X','J','V','S','D'].forEach(t => el.insertAdjacentHTML('beforeend', `<div class="dow">${t}</div>`));
-  for (let i = 0; i < PRIMER_DIA; i++) el.insertAdjacentHTML('beforeend', '<div></div>');
-}
-
-function pintarVoto() {
-  const cal = $('cal'); cabecera(cal);
-  for (let d = 1; d <= DIAS; d++) {
-    const b = document.createElement('button');
-    b.className = 'day' + (PROBABLES.includes(d) ? ' likely' : '') + (elegido === d ? ' sel' : '');
-    b.textContent = d;
-    const lleno = cuenta(d) >= MAX_POR_DIA;
-    b.disabled = lleno;
-    b.setAttribute('aria-label', `${d} de noviembre${lleno ? ', completo' : ''}`);
-    b.onclick = () => { elegido = d; pintarVoto(); actualizarBoton(); };
-    cal.appendChild(b);
-  }
-  if (elegido && cuenta(elegido) >= MAX_POR_DIA) { elegido = null; actualizarBoton(); }
-}
-
-function actualizarBoton() {
-  const listo = elegido && $('nombre').value.trim() && $('apellido').value.trim();
-  $('votar').disabled = !listo;
-  $('votar').textContent = !elegido ? 'Elige un día'
-    : !listo ? 'Escribe tu nombre y apellido' : `Apostar por el ${elegido} de noviembre`;
-}
-
-function pintarResultados() {
-  const cal = $('calRes'); cabecera(cal);
-  let total = 0;
-  for (let d = 1; d <= DIAS; d++) {
-    const n = cuenta(d); total += n;
-    const mio = miVoto && +miVoto.dia === d;
-    cal.insertAdjacentHTML('beforeend',
-      `<div class="day${PROBABLES.includes(d) ? ' likely' : ''}${mio ? ' mine' : ''}" style="${n >= MAX_POR_DIA ? 'background:var(--full)' : ''}">
-        ${d}<span class="n">${n ? n + '/' + MAX_POR_DIA : ''}</span>
-        ${n ? `<div class="bar" style="width:${n / MAX_POR_DIA * 70}%"></div>` : ''}
-      </div>`);
-  }
-  $('total').textContent = `${total} apuesta${total === 1 ? '' : 's'} hasta ahora`;
-  const lista = $('lista'); lista.innerHTML = '';
-  for (let d = 1; d <= DIAS; d++) {
-    const g = Object.values(votes[pad(d)] || {});
-    if (!g.length) continue;
-    const row = document.createElement('div'); row.className = 'row';
-    const dd = document.createElement('div'); dd.className = 'd'; dd.textContent = `${d} nov`;
-    const who = document.createElement('div'); who.className = 'who';
-    who.textContent = g.sort((a, b) => a.ts - b.ts).map(v => v.name).join(' · ');
-    row.append(dd, who); lista.appendChild(row);
-  }
-  if (miVoto) $('miVoto').textContent = `${miVoto.nombre}, has apostado por el ${+miVoto.dia} de noviembre.`;
-}
-
-function render() {
-  if (miVoto) { $('voteCard').classList.add('hidden'); $('resCard').classList.remove('hidden'); pintarResultados(); }
-  else pintarVoto();
-}
-
-['nombre','apellido'].forEach(id => $(id).addEventListener('input', actualizarBoton));
-
-$('votar').onclick = async () => {
-  const nombre = `${$('nombre').value.trim()} ${$('apellido').value.trim()}`.replace(/\s+/g, ' ');
-  const clave = claveNombre(nombre);
-  if (!elegido || !clave) return;
-  $('votar').disabled = true; $('msg').className = 'msg'; $('msg').textContent = 'Guardando…';
-  try {
-    const r = await api.votar(elegido, nombre, clave);
-    if (r === 'ok') {
-      miVoto = { nombre, dia: elegido };
-      try { localStorage.setItem(MI_CLAVE, JSON.stringify(miVoto)); } catch {}
-      $('msg').textContent = ''; render();
-    } else {
-      $('msg').className = 'msg err';
-      $('msg').textContent = r === 'repetido'
-        ? `Ya hay una apuesta a nombre de ${nombre}. Solo se puede votar una vez.`
-        : `Vaya, el ${elegido} se acaba de llenar. Elige otro día.`;
-      if (r === 'lleno') elegido = null;
-      pintarVoto(); actualizarBoton();
-    }
-  } catch (e) {
-    $('msg').className = 'msg err'; $('msg').textContent = 'No se ha podido guardar. Prueba de nuevo.';
-    actualizarBoton();
-  }
-};
-
-api.escuchar(v => { votes = v; render(); });
-actualizarBoton();
 </script>
 </body>
 </html>
